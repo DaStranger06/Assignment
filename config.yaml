@@ -1,0 +1,26 @@
+credentials:
+  usernames:
+    siam:
+      email: sazzadhsiam06@gmail.com
+      name: siam
+      password: $2b$12$2OMLm0qi0DnjXSL1Wm2lmueVUVlqf4cCPoIMk6zhHJ0MntupACdSG
+
+cookie:
+  expiry_days: 0
+  key: 
+  name:
+preauthorized:
+  emails:
+  - sazzadhsiam06@gmail.com
+
+db:
+  auth_plugin: mysql_native_password
+  database: ExpenseDB
+  host: localhost
+  passwd: 1618sazzad
+  user: root
+
+
+email_sender:
+  email: "sazzadhsiam06@gmail.com"
+  pass: '1234'
